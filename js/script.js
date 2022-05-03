@@ -1,12 +1,10 @@
 const app = new Vue ({
 
 
-  el: #app;
+  el: "#app",
 
   data: {
     messaggio: "ciao mondo"
   }
-
-  methods
 
 })
